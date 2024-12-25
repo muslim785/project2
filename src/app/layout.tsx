@@ -17,8 +17,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Assignment-2 By Burair Ahmed",
-  description: "Assignment-2 By Burair Ahmed",
+  title: "Assignment-2 By muslim ",
+  description: "Assignment-2 By muslim",
 };
 
 export default function RootLayout({
